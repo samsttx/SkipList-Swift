@@ -1,0 +1,8 @@
+# finder
+.DS_Store
+Icon?
+
+# xcodeproj
+xcuserdata
+xcshareddata
+
